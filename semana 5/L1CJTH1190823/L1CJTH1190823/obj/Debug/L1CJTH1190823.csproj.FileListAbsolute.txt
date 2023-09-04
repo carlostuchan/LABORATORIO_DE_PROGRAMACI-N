@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\semana 5\L1CJTH1190823\L1CJTH1190823\bin\Debug\L1CJTH1190823.exe.config
+C:\Users\Estudiante\Desktop\semana 5\L1CJTH1190823\L1CJTH1190823\bin\Debug\L1CJTH1190823.exe
+C:\Users\Estudiante\Desktop\semana 5\L1CJTH1190823\L1CJTH1190823\bin\Debug\L1CJTH1190823.pdb
+C:\Users\Estudiante\Desktop\semana 5\L1CJTH1190823\L1CJTH1190823\obj\Debug\L1CJTH1190823.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\semana 5\L1CJTH1190823\L1CJTH1190823\obj\Debug\L1CJTH1190823.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\semana 5\L1CJTH1190823\L1CJTH1190823\obj\Debug\L1CJTH1190823.exe
+C:\Users\Estudiante\Desktop\semana 5\L1CJTH1190823\L1CJTH1190823\obj\Debug\L1CJTH1190823.pdb
